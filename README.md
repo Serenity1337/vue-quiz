@@ -1,4 +1,4 @@
-# mini-shop-project
+# vue-quiz
 
 ## Project setup
 ```
